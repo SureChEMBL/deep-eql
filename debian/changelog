@@ -1,0 +1,12 @@
+node-deep-eql (2.0.0+dfsg-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream release
+
+ -- Sruthi Chandran <srud@disroot.org>  Sat, 05 Nov 2016 12:52:45 +0530
+
+node-deep-eql (1.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #840449)
+
+ -- Syam G Krishnan <sgk@riseup.net>  Tue, 11 Oct 2016 22:43:49 +0530
